@@ -1,0 +1,25 @@
+header {
+  background-color: #101314;
+  color: white;
+  padding: 20px;
+}
+
+.navbar-brand img {
+  height: 40px;  /* Adjust the height as necessary */
+  width: auto;   /* Maintain the aspect ratio */
+}
+
+.navbar-nav {
+  display: flex;
+  gap: 20px; /* Space between the navbar items */
+}
+
+.navbar-nav .nav-link {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #61dafb;
+}
