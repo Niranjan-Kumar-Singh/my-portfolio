@@ -38,7 +38,7 @@ This portfolio is a blend of cutting-edge technologies designed to deliver both 
 
 Take a quick peek at the portfolio with this visual overview:
 
-![Portfolio Homepage](./homepage.png)
+![Portfolio Homepage](./demo.gif)
 
 ---
 
